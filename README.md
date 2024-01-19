@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src=" https://github.com/thessleepyhead/Snapgram/blob/main/public/assets/Screenshot%20(69).png" />
+    <img src="https://github.com/thessleepyhead/Snapgram/blob/main/public/assets/Screenshot%20(69).png" alt="screenshot1" />
   <br />
 
   <div>
